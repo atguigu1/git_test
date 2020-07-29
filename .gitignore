@@ -2,3 +2,17 @@
 ./.idea
 git_test.iml
 
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/.name
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/deployment.xml
+.idea/dictionaries
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/sbt.xml
+.idea/vcs.xml
+src/main/resources/
+src/test/
